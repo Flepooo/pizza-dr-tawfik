@@ -1,0 +1,21 @@
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.exe.config
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.exe
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.pdb
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.csprojResolveAssemblyReference.cache
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app_5_Pizza_Tawfik.Form1.resources
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app_5_Pizza_Tawfik.Properties.Resources.resources
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.csproj.GenerateResource.Cache
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.exe
+E:\C#\The 6 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.pdb
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.exe.config
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.exe
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.pdb
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.csprojResolveAssemblyReference.cache
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app_5_Pizza_Tawfik.Form1.resources
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app_5_Pizza_Tawfik.Properties.Resources.resources
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.csproj.GenerateResource.Cache
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.exe
+E:\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.pdb
+E:\SCU\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\bin\Debug\app 5 Pizza Tawfik.exe.config
+E:\SCU\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.exe
+E:\SCU\C#\The 5 apps\app 5 Pizza Tawfik\app 5 Pizza Tawfik\obj\Debug\app 5 Pizza Tawfik.pdb
